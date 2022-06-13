@@ -1,29 +1,29 @@
 export const Menunavbar=[
     {
-        namamenu:"Home",
-        class:"text-xl font-bold font-serif text-red-600",
-        classli:"p-4",
+        namamenu:"Beranda",
+        class:"text-xl font-bold font-serif text-white hover:text-red-600 duration-300",
+        classli:"p-4 px-4",
         link:"/"
     },
     {
         
-        namamenu:"Login",
-        class:"font-bold text-xl hover:text-red-600 duration-300",
-        classli:"p-4",
+        namamenu:"Tentang",
+        class:"font-bold text-xl text-white hover:text-red-600 duration-300",
+        classli:"p-4 px-4",
         link:"/loginadmin"
     },
     {
         
         namamenu:"Pimpinan",
-        class:"font-bold text-xl hover:text-red-600 duration-300",
-        classli:"p-4",
+        class:"font-bold text-xl text-white hover:text-red-600 duration-300",
+        classli:"p-4 px-4",
         link:"/loginpimpinan"
     },
     {
         
         namamenu:"Staff",
-        class:"font-bold text-xl hover:text-red-600 duration-300",
-        classli:"p-4",
+        class:"font-bold text-xl text-white hover:text-red-600 duration-300",
+        classli:"p-4 px-4",
         link:"/loginstaff"
     }
 

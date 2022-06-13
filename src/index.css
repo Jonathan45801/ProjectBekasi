@@ -6,3 +6,18 @@
 .backgroundcolor-login{
     background-image: linear-gradient(182deg,rgba(185,185,188,1) 0%,rgba(53,49,94,1)53.2%,rgba(197,196,209,1)100%) !important;
 }
+
+.backgroundhome{
+    background-image: linear-gradient(to top,rgb(40, 90, 24),rgb(40, 176, 24));
+}
+
+.backgroundbalai{
+    background-image: linear-gradient(to right,rgb(40, 176, 24),rgb(40, 90, 24));
+}
+.backgroundnavbar{
+    background-color: rgb(40, 176, 24);
+}
+
+.backgroundlokasi{
+    background-image: linear-gradient(to right,rgb(40, 90, 24),rgb(40, 176, 24));
+}
