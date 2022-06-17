@@ -3,7 +3,7 @@ import {FaHandshake}from 'react-icons/fa'
 import Gambarkunci from '../Assets/gambar/gambar2.png'
 const Balai = () => {
   return (
-    <div className='w-full h-[30rem] backgroundbalai'>
+    <div className='w-full h-[30rem] bg-gradient-to-b from-cyan-500 to-teal-900'>
         <div className='flex w-full h-screen'>
             <div className='w-full grid grid-cols-2 h-[30rem] gap-4 px-4'>
                 <div className='flex items-center'>

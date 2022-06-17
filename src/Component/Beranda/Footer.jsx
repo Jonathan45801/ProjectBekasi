@@ -3,17 +3,17 @@ import {BsInstagram,BsTwitter,BsFacebook}from 'react-icons/bs'
 import {CgCopyright} from 'react-icons/cg'
 const Footer = () => {
   return (
-    <div className='w-full h-[10rem] bg-green-300'>
+    <div className='w-full h-[10rem] bg-teal-900'>
         <div className='h-[10rem] flex justify-between px-4'>
             <div className='flex my-auto px-8'>
                 <div className='px-4'>
-                    <BsFacebook size={50}/>
+                    <BsFacebook size={50} className='text-white'/>
                 </div>
                 <div className='px-4'>
-                <BsTwitter size={50}/>
+                <BsTwitter size={50} className='text-white'/>
                 </div>
                 <div className='px-4'>
-                <BsInstagram size={50}/>
+                <BsInstagram size={50} className='text-white'/>
                 </div>
             </div>
             <div className='flex justify-end my-auto px-8'>

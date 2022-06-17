@@ -2,7 +2,7 @@ import React from 'react'
 import Webdiskom from '../Assets/gambar/webdiskom.png'
 const diskom = () => {
   return (
-    <div className='w-full h-[30rem] bg-emerald-400'>
+    <div className='w-full h-[30rem] bg-gradient-to-r from-cyan-400 to-teal-800'>
         <div className='max-w-[1000px] px-7 mx-auto flex flex-col justify-center h-full'>
             <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8 px-4'>
                 <div>

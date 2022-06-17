@@ -4,7 +4,7 @@ import Logowebdiskom from '../Assets/gambar/logo.png'
 import Logogambar2 from '../Assets/gambar/gambar2.png'
 const Support = () => {
   return (
-    <div className='w-full h-screen'>
+    <div className='w-full h-screen bg-gradient-to-b from-teal-600 to-teal-900'>
         <div className='w-full h-full flex flex-col justify-center items-start'>
             <div className='m-auto'>
                 <p className='text-3xl tracking-wider font-serif'>Support</p>

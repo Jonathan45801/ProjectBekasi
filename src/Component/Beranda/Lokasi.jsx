@@ -3,7 +3,7 @@ import {MdLocationOn} from 'react-icons/md'
 import {FaPhoneVolume,FaPaperPlane} from 'react-icons/fa'
 const Lokasi = () => {
   return (
-    <div className='w-full h-screen backgroundlokasi'>
+    <div className='w-full h-screen bg-gradient-to-r from-black to-cyan-600'>
         <div className='max-w-[1000px] mx-auto flex flex-col justify-center h-full'>
             <div className='max-w-[1000px] w-full py-4'>
             <div className='py-6'>
