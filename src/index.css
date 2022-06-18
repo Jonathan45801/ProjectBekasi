@@ -4,7 +4,7 @@
 
 
 .backgroundcolor-login{
-    background-image: linear-gradient(182deg,rgba(185,185,188,1) 0%,rgba(53,49,94,1)53.2%,rgba(197,196,209,1)100%) !important;
+    background-image: linear-gradient(182deg, rgb(34 197 94) 0%,rgb(20 83 45)53.2%,black 100%) !important;
 }
 
 .backgroundhome{
